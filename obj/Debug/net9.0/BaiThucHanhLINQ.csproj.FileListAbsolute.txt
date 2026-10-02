@@ -1,0 +1,14 @@
+C:\Users\PC\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.exe
+C:\Users\PC\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.deps.json
+C:\Users\PC\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.runtimeconfig.json
+C:\Users\PC\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.dll
+C:\Users\PC\BaiThucHanhLINQ\bin\Debug\net9.0\BaiThucHanhLINQ.pdb
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.AssemblyInfoInputs.cache
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.AssemblyInfo.cs
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.csproj.CoreCompileInputs.cache
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.dll
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\refint\BaiThucHanhLINQ.dll
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.pdb
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\BaiThucHanhLINQ.genruntimeconfig.cache
+C:\Users\PC\BaiThucHanhLINQ\obj\Debug\net9.0\ref\BaiThucHanhLINQ.dll
